@@ -1,2 +1,3 @@
 # ted_talk_nlp
-doc2vec modeling of TED talks
+
+What are the types of topics covered by TED Talks? Are some topics more popular than others? How can we measure "popularity" of a topic? Let's try to answer these questions.
